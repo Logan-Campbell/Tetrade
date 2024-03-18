@@ -1,5 +1,5 @@
 # Tetrade
-A homebrwew Tetris clone for the original Playstation. 
+A homebrew Tetris clone for the original Playstation. 
 
 ### Modes
 Includes two modes:
@@ -15,6 +15,16 @@ The game offers two ways that the next game piece or tetrimino is selected (sele
 
 **Pure Random:** Each tetrimino is randomly selected.
 
+## Screenshots
+
+### Title Screen
+![Title](/screenshots/scr_0.png)
+### Marathon Mode
+![Marathon Mode](/screenshots/scr_1.png)
+### Versus Mode
+![Two Player](/screenshots/scr_2.png)
+![Two Player Winner](/screenshots/scr_3.png)
+
 
 ## Controls
 
@@ -28,7 +38,7 @@ The game offers two ways that the next game piece or tetrimino is selected (sele
 **Cross:** Rotate Counterclockwise \
 **Circle:** Rotate Clockwise
 
-**R1,L1,Square:** Hold
+**R1, L1, Square:** Hold
 
 ### Menus:
 
@@ -49,15 +59,15 @@ Run both commands in the root of the project folder:
 ```cmake --preset default .```\
 ```cmake --build ./build```
 
-build directory will contain .CUE .BIN .EXE files.
+build directory will contain the .CUE, .BIN, and .EXE files. I have tested this game on real hardware (SCPH-7501) and should fully work as it does in emulators.
 
 
 ## Credits:
 
-Thanks to Lameguy64, spicyjpeg for Psn00SDK and examples.
+Thanks to Lameguy64, spicyjpeg for Psn00SDK and all the examples.
 
 #### Music by:
-Sara Garrard sonatina.itch.io
+Sara Garrard (sonatina.itch.io)
 
 #### Sound Effcts by:
 Kenney Vleugels (www.kenney.nl) \
