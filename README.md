@@ -59,12 +59,12 @@ Run both commands in the root of the project folder:
 ```cmake --preset default .```\
 ```cmake --build ./build```
 
-build directory will contain the .CUE, .BIN, and .EXE files. I have tested this game on real hardware (SCPH-7501) and should fully work as it does in emulators.
+Build directory will contain the .CUE, .BIN, and .EXE files. I have tested this game on real hardware (SCPH-7501) and should fully work as it does in emulators.
 
 
 ## Credits:
 
-Thanks to Lameguy64, spicyjpeg for Psn00SDK and all the examples.
+Thanks to Lameguy64, spicyjpeg for Psn00SbDK and all the examples.
 
 #### Music by:
 Sara Garrard (sonatina.itch.io)
